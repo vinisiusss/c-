@@ -1,0 +1,92 @@
+G:\PricInf\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.exe
+G:\PricInf\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.deps.json
+G:\PricInf\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.runtimeconfig.json
+G:\PricInf\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.runtimeconfig.dev.json
+G:\PricInf\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.dll
+G:\PricInf\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.pdb
+G:\PricInf\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.AssemblyReference.cache
+G:\PricInf\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form1.resources
+G:\PricInf\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.GenerateResource.cache
+G:\PricInf\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.GeneratedMSBuildEditorConfig.editorconfig
+G:\PricInf\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.AssemblyInfoInputs.cache
+G:\PricInf\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.AssemblyInfo.cs
+G:\PricInf\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.CoreCompileInputs.cache
+G:\PricInf\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.dll
+G:\PricInf\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.pdb
+G:\PricInf\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.genruntimeconfig.cache
+G:\PricInf\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form2.resources
+C:\Visual_project(games)\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.exe
+C:\Visual_project(games)\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.deps.json
+C:\Visual_project(games)\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.runtimeconfig.json
+C:\Visual_project(games)\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.runtimeconfig.dev.json
+C:\Visual_project(games)\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.dll
+C:\Visual_project(games)\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.pdb
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.AssemblyReference.cache
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form1.resources
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.GenerateResource.cache
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.AssemblyInfoInputs.cache
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.AssemblyInfo.cs
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.CoreCompileInputs.cache
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.dll
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.pdb
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.genruntimeconfig.cache
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Properties.Resources.resources
+G:\Новая папка\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.exe
+G:\Новая папка\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.deps.json
+G:\Новая папка\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.runtimeconfig.json
+G:\Новая папка\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.runtimeconfig.dev.json
+G:\Новая папка\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.dll
+G:\Новая папка\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.pdb
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.AssemblyReference.cache
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form1.resources
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Properties.Resources.resources
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.GenerateResource.cache
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.GeneratedMSBuildEditorConfig.editorconfig
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.AssemblyInfoInputs.cache
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.AssemblyInfo.cs
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.CoreCompileInputs.cache
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.dll
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.pdb
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.genruntimeconfig.cache
+C:\Visual_project(games)\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form2.resources
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form2.resources
+G:\Новая папка\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form3.resources
+E:\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.exe
+E:\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.deps.json
+E:\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.runtimeconfig.json
+E:\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.runtimeconfig.dev.json
+E:\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.dll
+E:\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.pdb
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.AssemblyReference.cache
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form1.resources
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form2.resources
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form3.resources
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Properties.Resources.resources
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.GenerateResource.cache
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.AssemblyInfoInputs.cache
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.AssemblyInfo.cs
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.CoreCompileInputs.cache
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.dll
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.pdb
+E:\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.genruntimeconfig.cache
+C:\Users\volkt\Desktop\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.exe
+C:\Users\volkt\Desktop\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.deps.json
+C:\Users\volkt\Desktop\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.runtimeconfig.json
+C:\Users\volkt\Desktop\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.runtimeconfig.dev.json
+C:\Users\volkt\Desktop\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.dll
+C:\Users\volkt\Desktop\My_game_gallows\bin\Debug\netcoreapp3.1\My_game_gallows.pdb
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.AssemblyReference.cache
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form1.resources
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form2.resources
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Form3.resources
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.Properties.Resources.resources
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.GenerateResource.cache
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.AssemblyInfoInputs.cache
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.AssemblyInfo.cs
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.csproj.CoreCompileInputs.cache
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.dll
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.pdb
+C:\Users\volkt\Desktop\My_game_gallows\obj\Debug\netcoreapp3.1\My_game_gallows.genruntimeconfig.cache
